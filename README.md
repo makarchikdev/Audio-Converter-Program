@@ -22,4 +22,4 @@ A simple and lightweight MP3 to OGG audio converter built with Windows Forms on 
 
 ## Credits
 
-Developed by **YourNickname**. Version 1.0.0.
+Developed by **makarchik.dev**. Version 1.0.0.
